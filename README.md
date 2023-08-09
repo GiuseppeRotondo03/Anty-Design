@@ -37,12 +37,14 @@ Anty is a Top - Down Arcade game. The goal of the player, an ant, is to save the
 
 ### #Mechanics and other Actors:
 - If the player is seen even once and for a second, he goes back to the starting point and has to start over. The player knows the size of the "Enemies Kill area" by the red lights
-
-- To continue through the levels, you must first go to the "trade points" (indicated by green mushrooms). In doing so, he will receive earth to bridge the gap between one level and the next.
-- In level 2 the real challenge is represented by the "Darkenss" debuff which makes the view less
+  
 ![RC](/HighresScreenshot00027.png)
 
+- To continue through the levels, you must first go to the "trade points" (indicated by green mushrooms). In doing so, he will receive earth to bridge the gap between one level and the next.
+
 <hr>
+  
+- In level 2 the real challenge is represented by the "Darkenss" debuff which makes the view less
 
 ![RC](/HighresScreenshot00030.png)
 
