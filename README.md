@@ -8,9 +8,8 @@
 <hr>
 
 ## #My goal as Level Designer and more about Anty
-Create 5 levels where the difficulty and challenges change using only and all the actors provided by the game designer.
-- Anty is a Top - Down Arcade game.
-- The goal of the player, an ant, is to save the eggs in the anthill without being seen by the spiders. Each level has different challenges and different difficulty levels.
+- Create 5 levels where the difficulty and challenges change using only and all the actors provided by the game designer.
+- The the player goal, an ant, is to save the eggs in the anthill without being seen by the spiders. Each level has different challenges and different difficulty levels.
 
 <hr>
 
@@ -51,3 +50,7 @@ The levels become increasingly difficult and complex, so that the player has tim
 - Level 3: The level is completely new, it's not difficult but still challenging
 - Level 4: Same as level 1, but with much more enemies
 - Level 5: Mix of everything learned, The player now has the ability to kill opponents
+
+
+# #NOTE
+GameDesign, Level design and half of models were done in only 2 DAYS.
