@@ -1,7 +1,3 @@
-Anty is a Top - Down Arcade game. The goal of the player, an ant, is to save the eggs in the anthill without being seen by the spiders. Each level has different challenges and different difficulty levels.
-
-<hr>
-
 ### #Videos and screenshots
 
 - Game Screenshots [ArtStation](https://www.artstation.com/artwork/Xgxy4n)
@@ -12,11 +8,14 @@ Anty is a Top - Down Arcade game. The goal of the player, an ant, is to save the
 <hr>
 
 ## #My goal as Level Designer
+- Create 5 levels where the difficulty and challenges change using only and all the actors provided by the game designer.
 
 <hr>
 
-- Create 5 levels where the difficulty and challenges change using only and all the actors provided by the game designer.
 # #Game Design, in short
+
+  
+Anty is a Top - Down Arcade game. The goal of the player, an ant, is to save the eggs in the anthill without being seen by the spiders. Each level has different challenges and different difficulty levels.
 
 <hr>
 
@@ -34,6 +33,8 @@ Anty is a Top - Down Arcade game. The goal of the player, an ant, is to save the
 - Small spider, runs forward
 - While Large spiders are in the game from the beginning, Small spiders spawn and despawn in "Red Holes"
   
+<hr>
+
 ### #Mechanics and other Actors:
 - If the player is seen even once and for a second, he goes back to the starting point and has to start over. The player knows the size of the "Enemies Kill area" by the red lights
 ![RC](/HighresScreenshot00030.png)
