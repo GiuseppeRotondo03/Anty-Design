@@ -1,1 +1,11 @@
-# Anty-Design
+- My goal
+- Player Goal
+- Player enemies
+- A
+- B
+- Decision
+- Rules
+- Mecanics
+- Dynamics
+
+- Level Design Process
