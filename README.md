@@ -1,4 +1,7 @@
 - My goal
+- A
+- B
+- C
 - Player Goal
 - Player enemies
 - A
