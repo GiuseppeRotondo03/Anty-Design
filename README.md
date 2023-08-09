@@ -53,4 +53,4 @@ The levels become increasingly difficult and complex, so that the player has tim
 
 
 # #NOTE
-GameDesign, Level design and half of models were done in only 2 DAYS.
+GameDesign, Level design and half of models were done, on purpose, in only 2 DAYS.
