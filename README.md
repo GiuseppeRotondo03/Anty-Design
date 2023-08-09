@@ -19,7 +19,7 @@ Anty is a Top - Down Arcade game. The goal of the player, an ant, is to save the
 ### #Player Enemies:
 - Large spider, rotates 90 degrees every x seconds
 - Small spider, runs forward
-- ![RC](/HighresScreenshot00027.png)
+- ![RC](/HighresScreenshot00028.png)
 - While Large spiders are in the game from the beginning, Small spiders spawn and despawn in "Red Holes"
   
 ### #Mechanics:
