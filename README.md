@@ -1,6 +1,15 @@
+Anty is a Top - Down Arcade game. The goal of the player, an ant, is to save the eggs in the anthill without being seen by the spiders. Each level has different challenges and different difficulty levels.
+
 ### #Videos and screenshots
 
-Please, check here: [Art Station](https://www.artstation.com/artwork/Xgxy4n)
+- Game Screenshots [ArtStation](https://www.artstation.com/artwork/Xgxy4n)
+- Watch Gameplay clips [1 minute video](https://youtu.be/yeR7v-2roT4)
+- Try the game [Download Page](https://giusepperotondo.itch.io/anty-please-save-the-eggs)
+- Watch Long Gameplay clips [3 minutes video](https://youtu.be/l9Ru01FmT2k)
+
+- Please, Watch screenshots here and videos: [ArtStationPost]()
+- Watch Gameplay clips here [1 minute video](https://youtu.be/yeR7v-2roT4)
+- Try the game [Download Page](https://giusepperotondo.itch.io/anty-please-save-the-eggs)
 
 ## #My goal as Level Designer
 - Create 5 levels where the difficulty and challenges change using only and all the actors provided by the game designer.
