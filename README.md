@@ -50,7 +50,3 @@ The levels become increasingly difficult and complex, so that the player has tim
 - Level 3: The level is completely new, it's not difficult but still challenging
 - Level 4: Same as level 1, but with much more enemies
 - Level 5: Mix of everything learned, The player now has the ability to kill opponents
-
-
-# #NOTE
-GameDesign, Level design and half of models were done, on purpose, in only 2 DAYS.
