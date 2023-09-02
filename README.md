@@ -1,9 +1,9 @@
 ### #Videos and screenshots
 
-- Game Screenshots [ArtStation](https://www.artstation.com/artwork/Xgxy4n)
 - Watch Gameplay clips [1 minute video](https://youtu.be/yeR7v-2roT4)
 - Try the game [Download Page](https://giusepperotondo.itch.io/anty-please-save-the-eggs)
 - Watch Long Gameplay clips [3 minutes video](https://youtu.be/l9Ru01FmT2k)
+- Game Screenshots [Please, ask me!]
 
 <hr>
 
